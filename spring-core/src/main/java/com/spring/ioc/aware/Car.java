@@ -7,4 +7,7 @@ package com.spring.ioc.aware;
  * @Date : 2016/6/8 17:49
  */
 public class Car {
+
+
+
 }
